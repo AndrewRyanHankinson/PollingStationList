@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Liverpool Polling Station",
+    "Location": "South Liverpool",
+    "PrimaryContact": "Mr Polling Man",
+    "Address": "123 Southport Road",
+    "PhoneNumber": "0151 555776",
+    "Latitude": 53.381876,
+    "Longitude": -2.944811
+  },
+  {
+    "Name": "Ormskirk Polling Station",
+    "Location": "Ormskirk",
+    "PrimaryContact": "Joe Frazier",
+    "Address": "24 Wigan Lane",
+    "PhoneNumber": "01695 555776",
+    "Latitude": 53.568907,
+    "Longitude": -2.875867
+  },
+  {
+    "Name": "Manchester Polling Station",
+    "Location": "Greater Manchester",
+    "PrimaryContact": "John Smith",
+    "Address": "7 DC Industrial Park",
+    "PhoneNumber": "0161 345724",
+    "Latitude": 53.476107,
+    "Longitude": -2.2358244
+  }
+]
